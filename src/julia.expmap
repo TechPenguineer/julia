@@ -13,6 +13,7 @@
     int64hash;
     int64to32hash;
     ios_*;
+    small_arraylist_grow;
     iswprint;
     jl_*;
     ijl_*;
